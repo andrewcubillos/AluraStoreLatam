@@ -27,8 +27,8 @@ Squarify
 
 | Archivo                        | Descripción                                  |
 |-------------------------------|----------------------------------------------|
-| `Alura_Store_Latam.ipynb`  | Recopilacion y evalucion de los datos y graficos de los mismos|
-| `Informe_Final.ipynb`                   | Informe con el analisis y la conclusion del caso |
+| `Alura_Store_Latam.ipynb`  | Recopilación y evalución de los datos y gráficos de los mismos|
+| `Informe_Final.ipynb`                   | Informe con el análisis y la conclusión del caso |
 | `Imágenes`                   | Carpeta con imágenes tomadas del archivo "Alura_Store_Latam.ipynb" para su uso en el informe |
 
 ---
