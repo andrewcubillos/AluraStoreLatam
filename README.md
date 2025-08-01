@@ -38,7 +38,7 @@ Instala los siguientes paquetes con pip:
 En google colab
 ```bash
 !pip install <módulo>
-
+```
 ---
 ```bash
 pip install squarify matplotlib pandas
