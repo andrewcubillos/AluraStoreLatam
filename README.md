@@ -37,7 +37,7 @@ Squarify
 
 Puede descargar el proyecto y ejecutarlo en el editor o Notebook de preferencia. Puede ser necesario instalar uno o mas de los siguientes paquetes con pip:  
 
-En google colab:
+En Google Colab:
 ```bash
 !pip install <módulo>
 ```
