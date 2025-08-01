@@ -11,9 +11,10 @@ El objetivo es identificar la tienda menos eficiente y presentar una recomendaci
 
 ---
 
-## 📝 herramientas Utilizadas
+## 📝 Herramientas Utilizadas
 
 Python
+Pandas
 Numpy
 Matplotlib
 Seaborn
@@ -28,28 +29,40 @@ Squarify
 |-------------------------------|----------------------------------------------|
 | `Alura_Store_Latam.ipynb`  | Recopilacion y evalucion de los datos y graficos de los mismos|
 | `Informe_Final.ipynb`                   | Informe con el analisis y la conclusion del caso |
-| `Imágenes`                   | Imágenes tomadas del archivo "Alura_Store_Latam.ipynb" para su uso en el informe |
+| `Imágenes`                   | Carpeta con imágenes tomadas del archivo "Alura_Store_Latam.ipynb" para su uso en el informe |
 
 ---
 
 ## 📌 Requisitos
 
-Instala los siguientes paquetes con pip:
-En google colab
+Puede descargar el proyecto y ejecutarlo en el editor o Notebook de preferencia. Puede ser necesario instalar uno o mas de los siguientes paquetes con pip:  
+
+En google colab:
 ```bash
 !pip install <módulo>
 ```
+En consola:
+```bash
+C:\Users\Your Name>pip install <módulo>
+```
 ---
 ```bash
-pip install squarify matplotlib pandas
-
----
+pip install pandas
+```
 ```bash
-pip install squarify matplotlib pandas
----
-
-
+pip install matplotlib
+```
+```bash
+pip install seaborn
+```
+```bash
+pip install squarify
+```
+Importar el módulo en cuestión:
+```bash
+import <módulo>
+```
 ## 📬 Contacto
 
-Para comentarios o sugerencias, puedes abrir un issue o contactar al autor del análisis.
+Sin información por el momento
 
